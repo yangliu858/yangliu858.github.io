@@ -20,11 +20,11 @@ Contact Information
 ======
 Email: liu.858@osu.edu
 
-Address:
-Max Planck Institute for Mathematics, Bonn
-Vivatsgasse 7
-53111 Bonn
-Germany
+Address:  
+Max Planck Institute for Mathematics, Bonn  
+Vivatsgasse 7  
+53111 Bonn  
+Germany  
 
 
 
