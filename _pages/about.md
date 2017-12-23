@@ -19,6 +19,7 @@ noncommutative geometry and its application to geometry/topology.
 Contact Information
 ======
 Email: liu.858@osu.edu
+
 Address:
 Max Planck Institute for Mathematics, Bonn
 Vivatsgasse 7
