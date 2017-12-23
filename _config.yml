@@ -13,7 +13,7 @@ name                     : &name "Dr. Yang Liu's Site"
 description              : &description "Max Planck Institute for Mathematics, Bonn"
 url                      : https://yangliu858.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yangliu858/yangliu858.github.io"
+repository               : "yangliu858.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Yang Liu's Homepage"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Max Planck Institute for Mathematics, Bonn"
   location         : "Bonn, Germany"
   employer         :
   googlescholar    : 
