@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yang Liu's Site"
 title_separator          : "-"
 name                     : &name "Dr. Yang Liu's Site"
 description              : &description "Max Planck Institute for Mathematics, Bonn"
