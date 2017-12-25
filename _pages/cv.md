@@ -7,5 +7,10 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
+My updated CV is available [here]()
+
+
+
+
+
+
