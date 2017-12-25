@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My updated CV is available [here]()
+My updated CV is available [here](/files/CV_Liu_Nov17.pdf)
 
 
 
