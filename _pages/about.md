@@ -17,7 +17,8 @@ I received my Ph.D. in 2015 from the Ohio State University, Columbus under the
 Research Interests
 ======
 I study noncommutative geometry developed by [Alain Connes][conneshp] and many other mathematicians around the 80's, with applications in differential geometry and topology. The basic tools include K-theory, cyclic cohomology, Morita equivalence, operator-theoretic index theorems and Hopf algebra symmetry. 
-Global analysis, especially tools like  pseudo-differential calculus, for studying heat kernel expansion, is heavily involved in my current research.
+Global analysis, especially tools like  pseudo-differential calculus for
+studying heat kernel expansions, is heavily involved in my current research.
 
 Contact Information
 ======
