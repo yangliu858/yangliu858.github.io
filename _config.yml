@@ -253,6 +253,8 @@ timezon: Europe/Berlin  # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 
 # Plugins
+plugins:
+  - jekyll-seo-tag
 gems:
   - jekyll-paginate
     #- jekyll-sitemap
