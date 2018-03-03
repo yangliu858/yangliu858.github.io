@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Liu's Site"
+title                    : "Yang Liu at MPIM, Bonn"
 title_separator          : "-"
 name                     : &name "Dr. Yang Liu's Site"
 description              : &description "Welcome to Yang Liu (MPIM, Bonn)'s homepage"
