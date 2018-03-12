@@ -1,14 +1,13 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "CV"
 author_profile: true
 redirect_from:
   - /cv/
   - /cv.html
 ---
 
-My updated CV is available here: [CV](/files/CV_Liu_Nov17.pdf).
+My updated CV is available [here](/files/CV_Liu_Nov17.pdf).
 
 
 
