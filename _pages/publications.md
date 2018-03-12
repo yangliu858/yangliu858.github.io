@@ -15,4 +15,4 @@ Vol 121, Nov 2017, 138-165, [arXiv:1611.08933](https://arxiv.org/pdf/https://arx
 
 Preprints
 ======
-1. Hypergeometric function and modular curvature, [ArXiv:1711.01664](https://arxiv.org/pdf/1711.01664).
+1. Hypergeometric function and modular curvature, [arXiv:1711.01664](https://arxiv.org/pdf/1711.01664).
