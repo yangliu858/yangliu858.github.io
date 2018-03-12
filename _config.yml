@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Liu at MPIM, Bonn"
+title                    : "Yang Liu @ MPIM, Bonn"
 title_separator          : "-"
-name                     : &name "Dr. Yang Liu's Site"
+name                     : &name "Dr. Yang Liu's @ MPIM"
 description              : &description "Welcome to Yang Liu (MPIM, Bonn)'s homepage"
 url                      : https://yangliu858.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

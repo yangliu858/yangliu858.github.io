@@ -12,7 +12,9 @@ redirect_from:
 
 I received my Ph.D. in 2015 from the Ohio State University, Columbus under the
   supervision of [Henri
-  Moscovici](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11648).  Currently, I am a visiting postdoc at Max Planck Institute for Mathematics, Bonn.
+  Moscovici](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11648).
+  Currently, I am a  postdoctoral fellow  at Max Planck Institute for
+  Mathematics, Bonn.
 
 Research Interests
 ======
