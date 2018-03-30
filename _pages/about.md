@@ -24,8 +24,7 @@ studying heat kernel expansions, is heavily involved in my current research.
 
 Contact Information
 ======
-Email: liu.858@osu.edu
-
+Email: yang.liu.hit@gmail.com
 Address:  
 Max Planck Institute for Mathematics, Bonn  
 Vivatsgasse 7  
