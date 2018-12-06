@@ -22,6 +22,6 @@ Preprints
     in Heat Coefficients, [arXiv:1810.09939](https://arxiv.org/abs/1810.09939) 
 3.  Hypergeometric function and modular curvature II. 
      Connes-Moscovici functional relation after Lesch's work,
-     [arXiv:1811.07967] (https://arxiv.org/abs/1811.07967) 
+     [arXiv:1811.07967](https://arxiv.org/abs/1811.07967) 
 
 
