@@ -30,16 +30,16 @@ Positions
 
 Contact Information
 ======
-Email (Work): yliu@sissa.it
+Email (Work): yliu@sissa.it  
 Email (Personal): yang.liu.hit@gmail.com
 
 
 Address:  
-SISSA - Scuola Internazionale Superiore di Studi Avanzati
-Via Bonomea n. 265
+SISSA - Scuola Internazionale Superiore di Studi Avanzati  
+Via Bonomea n. 265  
 34136 Opicina (Trieste)
 
-Room: A-547
+Room: A-547  
 Phone Number: +39 040 3787 463
 
 [conneshp]: http://www.alainconnes.org/en/  
